@@ -6,7 +6,7 @@
 $$\beta = \sqrt{10 \cdot \left(\sqrt[3]{x} + x^{y+2}\right)} \cdot \left(\arcsin^2 z - |x - y|\right)$$
 
 **Дано:**
-- \(x = 16.55 \times 10^{-3}\)
+- \(x = 16.55 * 10^-3\)
 - \(y = -2.75\)
 - \(z = 0.15\)
 
