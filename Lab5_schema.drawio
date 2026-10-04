@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="EArxUFSHh816WRRmgGXi">
+    <mxGraphModel dx="1372" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R_k0rX9JEkrNcg3ahhWk-4" edge="1" parent="1" source="R_k0rX9JEkrNcg3ahhWk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="R_k0rX9JEkrNcg3ahhWk-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_k0rX9JEkrNcg3ahhWk-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R_k0rX9JEkrNcg3ahhWk-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#46495D;" value="Начало" vertex="1">
+          <mxGeometry height="30" width="60" x="384" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="R_k0rX9JEkrNcg3ahhWk-7" edge="1" parent="1" source="R_k0rX9JEkrNcg3ahhWk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="R_k0rX9JEkrNcg3ahhWk-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_k0rX9JEkrNcg3ahhWk-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" value="" vertex="1">
+          <mxGeometry height="100" width="154" x="337" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="R_k0rX9JEkrNcg3ahhWk-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#46495D;" value="&lt;br&gt;&lt;pre style=&quot;font-family: &amp;quot;Cascadia Mono&amp;quot;; font-size: 9pt; color: rgb(0, 0, 0);&quot;&gt;x = 16.55e-3&lt;br&gt;&lt;pre style=&quot;font-family: &amp;quot;Cascadia Mono&amp;quot;; font-size: 9pt; color: rgb(0, 0, 0);&quot;&gt;y = -2.75&lt;br&gt;&lt;pre style=&quot;font-family:&#39;Cascadia Mono&#39;;font-size:9pt;color:#000000&quot;&gt;z = 0.15&lt;br&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="100" width="130" x="349" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="R_k0rX9JEkrNcg3ahhWk-6" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" value="" vertex="1">
+          <mxGeometry height="110" width="196" x="316" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="R_k0rX9JEkrNcg3ahhWk-11" edge="1" parent="1" source="R_k0rX9JEkrNcg3ahhWk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="R_k0rX9JEkrNcg3ahhWk-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_k0rX9JEkrNcg3ahhWk-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBorderColor=none;fontColor=#46495D;labelBackgroundColor=none;" value="&lt;br&gt;&lt;pre style=&quot;font: 400 13px / 22px Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; white-space: pre-wrap; word-break: break-all; padding: 16px; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px !important;&quot;&gt;&lt;span&gt;b = sqrt(10 &lt;span class=&quot;token italic&quot; style=&quot;font-style: italic;&quot;&gt;&lt;span class=&quot;token punctuation&quot; style=&quot;&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt; (cbrt&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;(x)&lt;br&gt; + pow(x, y+2))) &lt;br&gt;&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;token punctuation&quot; style=&quot;&quot;&gt;*&lt;/span&gt; (asin²z - |x-y|)&lt;/span&gt;&lt;/pre&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="196" x="316" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="R_k0rX9JEkrNcg3ahhWk-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="R_k0rX9JEkrNcg3ahhWk-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#46495D;" value="Конец" vertex="1">
+          <mxGeometry height="30" width="60" x="384" y="455" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
