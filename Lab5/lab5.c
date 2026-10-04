@@ -8,7 +8,7 @@ int main()
 {
     setlocale(LC_ALL, "RUS");
 
-    double x = 16.55e-3;   // 0.01655
+    double x = 16.55e-3;
     double y = -2.75;
     double z = 0.15;
 
