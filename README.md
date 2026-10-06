@@ -42,17 +42,20 @@ int main()
 {
     setlocale(LC_ALL, "RUS");
 
-    double x = 16.55e-3;
-    double y = -2.75;
-    double z = 0.15;
+    double x; // 0.01655
+    double y; //-2.75
+    double z; // 0.15
+    printf("Введите X: ");
+    scanf("%lf", &x);
+    printf("Введите Y: ");
+    scanf("%lf", &y);
+    printf("Введите Z: ");
+    scanf("%lf", &z);
 
     double b = (sqrt(10 * (cbrt(x) + pow(x, y + 2))) *
-    (pow(asin(z), 2) - fabs(x - y)));
+        (pow(asin(z), 2) - fabs(x - y)));
 
     printf("Расчет по формуле:\n");
-    printf("x = %.5f\n", x);
-    printf("y = %.2f\n", y);
-    printf("z = %.2f\n", z);
     printf("---------------------\n");
     printf("Ответ: b = %.6f\n", b);
 
